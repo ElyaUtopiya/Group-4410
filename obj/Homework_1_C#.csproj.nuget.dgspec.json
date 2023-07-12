@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Учеба\\1 четверть\\Group 4410\\Homework_1_C#\\Homework_1_C#.csproj": {}
+  },
+  "projects": {
+    "d:\\Учеба\\1 четверть\\Group 4410\\Homework_1_C#\\Homework_1_C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Учеба\\1 четверть\\Group 4410\\Homework_1_C#\\Homework_1_C#.csproj",
+        "projectName": "Homework_1_C#",
+        "projectPath": "d:\\Учеба\\1 четверть\\Group 4410\\Homework_1_C#\\Homework_1_C#.csproj",
+        "packagesPath": "C:\\Users\\elina\\.nuget\\packages\\",
+        "outputPath": "d:\\Учеба\\1 четверть\\Group 4410\\Homework_1_C#\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
