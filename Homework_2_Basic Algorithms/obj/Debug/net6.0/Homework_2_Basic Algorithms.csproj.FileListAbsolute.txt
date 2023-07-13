@@ -1,0 +1,15 @@
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\bin\Debug\net6.0\Homework_2_Basic Algorithms.exe
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\bin\Debug\net6.0\Homework_2_Basic Algorithms.deps.json
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\bin\Debug\net6.0\Homework_2_Basic Algorithms.runtimeconfig.json
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\bin\Debug\net6.0\Homework_2_Basic Algorithms.dll
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\bin\Debug\net6.0\Homework_2_Basic Algorithms.pdb
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.csproj.AssemblyReference.cache
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.AssemblyInfoInputs.cache
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.AssemblyInfo.cs
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.csproj.CoreCompileInputs.cache
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.dll
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\refint\Homework_2_Basic Algorithms.dll
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.pdb
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\Homework_2_Basic Algorithms.genruntimeconfig.cache
+D:\Учеба\1 четверть\Group 4410\Homework_2_Basic Algorithms\obj\Debug\net6.0\ref\Homework_2_Basic Algorithms.dll
